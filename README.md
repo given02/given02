@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: cube1477@gmail.com
-- 😄 https://www.notion.so/f09773c755684dd7a1c57000d450e00c?pvs=4
 -->
 
 - 👋 Hi, I'm given02.
 - 🌱 I’m currently learning Java, Spring, JPA.
-
+- 😄 https://www.notion.so/f09773c755684dd7a1c57000d450e00c?pvs=4
