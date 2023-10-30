@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://www.notion.so/given02-univ/30f5619d30434072b468bc44aaf1ff08
+
 <!--
 **given02/given02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
