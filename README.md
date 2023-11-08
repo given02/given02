@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Portfolio - notion 바로가기](https://given02-univ.notion.site/f09773c755684dd7a1c57000d450e00c?pvs=4)
+[Portfolio - notion 바로가기](https://given02-univ.notion.site/a2826748279640949e57aa1e3d92d9fd?pvs=4)
 
 <!--
 **given02/given02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
