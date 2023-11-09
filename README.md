@@ -4,6 +4,16 @@
   
   ![header](https://capsule-render.vercel.app/api?type=soft&color=_hexcode&fontColor=a6ace9&height=100&section=header&text=안녕하세요.%20이준영의%20GitHub%20입니다.&fontSize=40)
 
+  ## Blog
+  <div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@given02">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="https://given02.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  </div>
+  
   ## Stacks
   <div>
     <div>
@@ -31,16 +41,6 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS EC2/S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     </div>
-  </div>
-
-  ## Blog
-  <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@given02">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://given02.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
   </div>
 
   ## Project
