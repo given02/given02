@@ -42,9 +42,8 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=given02)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=given02)](https://github.com/eungyeole/velog-readme-
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=given02&theme=default)](https://given02.tistory.com)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=given02&theme=default)](https://given02.tistory.com)
 </div><br>
 
   ### My Github
