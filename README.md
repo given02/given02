@@ -33,13 +33,23 @@
     </div>
   </div>
 
-  <div>
+  ## 💻 DEV's log 💻
+  <div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@given02">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="https://given02.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+    
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=given02)](https://github.com/eungyeole/velog-readme-stats)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=given02&postId=default&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+
+</div><br>
 
   ### My Github
   ![given02's github stats](https://github-readme-stats.vercel.app/api?username=given02&show_icons=true&theme=transparent)
   [![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=transparent)](https://github.com/given02)
   [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
     
-  </div>
-  
 </div>
