@@ -32,4 +32,7 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=given02)](https://github.com/ryo-ma/github-profile-trophy)
+
+![given02's github stats](https://github-readme-stats.vercel.app/api?username=given02&show_icons=true)
+[![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/given02)
+[![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
