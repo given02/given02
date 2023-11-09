@@ -1,7 +1,9 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiven02&count_bg=%23232323&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div align="center">
   
-  ### 안녕하세요. 이준영의 GitHub 포트폴리오 입니다.
-
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=안녕하세요.%20이준영의%20GitHub%20입니다.&fontSize=40)
+  
   [이력서&자기소개서 - notion 바로가기](https://given02-univ.notion.site/a2826748279640949e57aa1e3d92d9fd?pvs=4)
 
   ### Stacks
