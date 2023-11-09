@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=안녕하세요.%20이준영의%20GitHub%20입니다.&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=안녕하세요.%20이준영의%20GitHub%20입니다.&fontSize=40)
   
   [이력서&자기소개서 - notion 바로가기](https://given02-univ.notion.site/a2826748279640949e57aa1e3d92d9fd?pvs=4)
 
