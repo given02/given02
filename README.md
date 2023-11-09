@@ -4,7 +4,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=soft&color=_hexcode&fontColor=a6ace9&height=100&section=header&text=안녕하세요.%20이준영의%20GitHub%20입니다.&fontSize=40)
 
-  ### Stacks
+  ## Stacks
   <div>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
@@ -41,10 +41,17 @@
     <a href="https://given02.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    
-</div>
+  </div>
 
-  ### My Github
+  ## Project
+  |||
+  |------|---|
+  |테스트1|테스트2|
+  |테스트1|테스트2|
+  |테스트1|테스트2|
+  
+
+  ## My Github
   ![given02's github stats](https://github-readme-stats.vercel.app/api?username=given02&show_icons=true&theme=transparent)
   [![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=transparent)](https://github.com/given02)
   [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
