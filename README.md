@@ -31,4 +31,5 @@
   </div>
 </div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=개발공부블로그)](https://velog.io/@given02)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=given02)](https://github.com/ryo-ma/github-profile-trophy)
