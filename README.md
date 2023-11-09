@@ -44,7 +44,7 @@
     
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=given02)](https://github.com/eungyeole/velog-readme-stats)
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=given02&theme=default)](https://given02.tistory.com)
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=given02&theme=default)](https://given02.tistory.com)
 </div><br>
 
   ### My Github
