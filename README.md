@@ -12,8 +12,8 @@
 <!-- <p>[:arrow_down: 포트폴리오 바로가기 ]</p> -->
 <a href="https://given02-univ.notion.site/a6a5f066bc6d478cb6f61092467d7823?pvs=4">
 <!--   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> -->
-  <p>[ 포트폴리오 - 노션 바로가기 ]</p>
-</a>  
+  [ 포트폴리오 - 노션 바로가기 ]
+</a>
 
 <br/>
 
