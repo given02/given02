@@ -1,7 +1,7 @@
 
 <h3>안녕하세요. 이준영의 GitHub 입니다.</h3>
 
-<p>백엔드 개발자를 준비하고 있으며 현재는 Spring Boot, Express.js, Next.js를 공부하고 있습니다.</p>
+<p>백엔드 개발자를 준비하고 있으며 현재는 Spring Boot, Express, Next.js를 공부하고 있습니다.</p>
 <p>[:arrow_down: 이력서 & 자기소개서 - 바로가기 ]</p>
 <a href="https://given02-univ.notion.site/a6a5f066bc6d478cb6f61092467d7823?pvs=4">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
