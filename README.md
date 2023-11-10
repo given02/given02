@@ -18,7 +18,6 @@
 <div>
   
 ## Profile
-- Elice SW Engineer Track, FE Bootcamp (2023.08 ~)
 - WithSystem, Web Developer (2022.08 ~ 2023.01)
 - Major in Computer Science (2016.03 ~ 2023.08)
 - Major in Media Design (2013.03 ~ 2016.02)
