@@ -148,7 +148,7 @@
     </td>
     <td align="center">
 <!--       <a href="http://comma-project.p-e.kr/">배포</a> |  -->
-<!--       <a href="https://github.com/CommaProject/Comma-Back-end">깃허브</a> -->
+      <a href="https://github.com/CommaProject/Comma-Back-end">깃허브</a>
     <td align="center">
       <a href="http://smartcampus.life/main.do">배포</a>
     </td>
