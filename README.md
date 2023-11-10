@@ -13,7 +13,7 @@
 
 </div>
 
-<div align="center">
+<div>
 
 ## Blog
 <div style="display:flex; flex-direction:row;">
