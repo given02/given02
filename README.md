@@ -95,8 +95,7 @@
     <td>인턴</td>
     <td>웹 클라이언트&서버 개발</td>
     <td>
-      <a href="https://www.withsystem.com/with2019/sub/about.html">회사소개</a> | 
-      <a href="https://www.notion.so/given02-univ/a6a5f066bc6d478cb6f61092467d7823?pvs=4">포트폴리오</a>
+      <a href="https://www.withsystem.com/with2019/sub/about.html">회사소개</a>
     </td>
   </tr>
   
