@@ -74,6 +74,87 @@
   </div>
 </div>
 
+## Career
+
+<table border="1">
+  <tr>
+    <th></th>
+    <th>회사명(기간)</th>
+    <th>소속 부서</th>
+    <th>근무 유형</th>
+    <th>담당 업무</th>
+    <th>링크</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+    위드시스템<br/>
+    (2022.08.22~2023.01.13)
+    </td>
+    <td>개발팀</td>
+    <td>인턴</td>
+    <td>웹 클라이언트&서버 개발</td>
+    <td><a href="https://www.withsystem.com/with2019/sub/about.html">회사소개</a></td>
+  </tr>
+  
+</table>
+
+## Projects
+<table border="1">
+  <tr>
+    <th></th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <td>로고</td>
+    <td align="center">
+      <img src="https://github.com/given02/given02/assets/39878215/5657accc-680d-4f5b-acff-d0dfe287aaf5" width="150px" alt="로고1"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/given02/given02/assets/39878215/c1983722-17b3-45cc-b495-a10ed324e47d" width="150px" alt="로고2"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/given02/given02/assets/39878215/e22b9304-38f3-43a0-b48b-52757a468303" width="150px" alt="로고3"/>
+    </td>
+  </tr>
+  <tr>
+    <td>프로젝트명(기간)</td>
+    <td>
+      Gazago<br/>
+      (2023.10.02~2023.10.14)
+    </td>
+    <td>
+      Comma<br/>
+      (2022.12.19~현재 진행 중)
+    </td>
+    <td>
+      슬기로운 대학생활<br/>
+      (2022.05~2022.08)
+    </td>
+  </tr>
+  <tr>
+    <td>소개</td>
+    <td>온라인 캠핑용품 편집샵</td>
+    <td>Spotify 플레이리스트</td>
+    <td>대학생 커뮤니티</td>
+  </tr>
+  <tr>
+    <td>링크</td>
+    <td align="center">
+      <a href="http://gazago.p-e.kr/">배포</a> | 
+      <a href="https://github.com/elice-team03/gazago">깃허브</a>
+    </td>
+    <td align="center">
+<!--       <a href="http://comma-project.p-e.kr/">배포</a> |  -->
+<!--       <a href="https://github.com/CommaProject/Comma-Back-end">깃허브</a> -->
+    <td align="center">
+      <a href="http://smartcampus.life/main.do">배포</a>
+    </td>
+  </tr>
+</table>
+
 ## My Github
 ![given02's github stats](https://github-readme-stats.vercel.app/api?username=given02&show_icons=true&theme=transparent)
   [![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=transparent)](https://github.com/given02)
