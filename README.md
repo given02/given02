@@ -1,3 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Given02&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+
+<div align="right">
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiven02&count_bg=%23232323&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+</div>
 
 <h3>안녕하세요. 이준영의 GitHub 입니다.</h3>
 
@@ -7,15 +14,16 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>  
 
-<div align="right">
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiven02&count_bg=%23232323&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-
-</div>
+<br/>
 
 <div>
+  
+## Profile
+- Elice SW Engineer Track, FE Bootcamp (2023.08 ~)
+- Major in Computer Science (2016.03 ~ 2023.08)
+- Major in Media Design (2013.03 ~ 2016.02)
 
-## Blog
+## Dev log
 <div style="display:flex; flex-direction:row;">
   <a href="https://velog.io/@given02">
       <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
@@ -60,101 +68,19 @@
     <img src="https://img.shields.io/badge/AMAZON EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/AMAZON S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
   </div>
-  <div>
+<!--   <div>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
     <img src="https://img.shields.io/badge/spring rest docs-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  </div>
-  <div>
+  </div> -->
+<!--   <div>
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-  </div>
+  </div> -->
 </div>
-
-## Career
-
-<table border="1">
-  <tr>
-    <th></th>
-    <th>회사명(기간)</th>
-    <th>소속 부서</th>
-    <th>근무 유형</th>
-    <th>담당 업무</th>
-    <th>링크</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>
-    위드시스템<br/>
-    (2022.08.22~2023.01.13)
-    </td>
-    <td>개발팀</td>
-    <td>인턴</td>
-    <td>웹 클라이언트&서버 개발</td>
-    <td>
-      <a href="https://www.withsystem.com/with2019/sub/about.html">회사소개</a>
-    </td>
-  </tr>
-</table>
-
-## Projects
-<table border="1">
-  <tr>
-    <th></th>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <td>로고</td>
-    <td align="center">
-      <img src="https://github.com/given02/given02/assets/39878215/5657accc-680d-4f5b-acff-d0dfe287aaf5" width="150px" alt="로고1"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/given02/given02/assets/39878215/c1983722-17b3-45cc-b495-a10ed324e47d" width="150px" alt="로고2"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/given02/given02/assets/39878215/e22b9304-38f3-43a0-b48b-52757a468303" width="150px" alt="로고3"/>
-    </td>
-  </tr>
-  <tr>
-    <td>프로젝트명(기간)</td>
-    <td>
-      Gazago<br/>
-      (2023.10.02~2023.10.14)
-    </td>
-    <td>
-      Comma<br/>
-      (2022.12.19~현재 진행 중)
-    </td>
-    <td>
-      슬기로운 대학생활<br/>
-      (2022.05~2022.08)
-    </td>
-  </tr>
-  <tr>
-    <td>소개</td>
-    <td>온라인 캠핑용품 편집샵</td>
-    <td>Spotify 플레이리스트</td>
-    <td>대학생 커뮤니티</td>
-  </tr>
-  <tr>
-    <td>링크</td>
-    <td align="center">
-      <a href="http://gazago.p-e.kr/">배포</a> | 
-      <a href="https://github.com/elice-team03/gazago">깃허브</a>
-    </td>
-    <td align="center">
-<!--       <a href="http://comma-project.p-e.kr/">배포</a> |  -->
-      <a href="https://github.com/CommaProject/Comma-Back-end">깃허브</a>
-    <td align="center">
-      <a href="http://smartcampus.life/main.do">배포</a>
-    </td>
-  </tr>
-</table>
 
 ## My Github
 ![given02's github stats](https://github-readme-stats.vercel.app/api?username=given02&show_icons=true&theme=transparent)
