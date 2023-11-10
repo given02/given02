@@ -73,14 +73,6 @@
       <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
     </div>
   </div>
-
-  ## Projects
-  ||||
-  |---|---|---|
-  |로고 이미지|<img src="https://github.com/given02/given02/assets/39878215/5657accc-680d-4f5b-acff-d0dfe287aaf5" width="200px"/>|<img src="https://github.com/given02/given02/assets/39878215/c1983722-17b3-45cc-b495-a10ed324e47d" width="200px"/>|
-  |프로젝트명|Gazago|Comma|
-  |주제|온라인 캠핑용품 편집샵|Spotify 플레이리스트|
-  |내용|||
   
   ## My Github
   ![given02's github stats](https://github-readme-stats.vercel.app/api?username=given02&show_icons=true&theme=transparent)
