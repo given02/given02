@@ -6,9 +6,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Given02&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
-<p>안녕하세요. 저는 백엔드 개발자를 준비하고 있고 현재는 Spring Boot, Express, Next.js를 공부하고 있습니다.</p>
-<p>[:arrow_left: 연락처]</p>
-
 <br/>
 
 <div>
