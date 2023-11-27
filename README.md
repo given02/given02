@@ -19,16 +19,6 @@
 - Major in Computer Science (2016.03 ~ 2023.08)
 - Major in Media Design (2013.03 ~ 2016.02)
 
-## Dev log
-<div style="display:flex; flex-direction:row;">
-  <a href="https://velog.io/@given02">
-      <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-  </a>
-  <a href="https://given02.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-  </a>
-</div>
-  
 ## Stacks
 <div>
 <!--   <div>
@@ -93,3 +83,13 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
     
 </div>
+
+<!-- ## Dev log
+<div style="display:flex; flex-direction:row;">
+  <a href="https://velog.io/@given02">
+      <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+  </a>
+  <a href="https://given02.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+  </a>
+</div> -->
