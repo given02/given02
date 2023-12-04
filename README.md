@@ -8,7 +8,7 @@
 
 #### Hi, I am learning various stacks in order to become a full-stack developer.<br>
 I'm currently learning Typescript, Next.js, Python, Flask, and Redis.<br>
-I enjoy morning exercise, learning foreign languages(not programming...😢), and taking pictures.<br>
+I enjoy morning exercise, learning foreign languages, and taking pictures.<br>
 
 <div>
 
