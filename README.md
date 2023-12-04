@@ -6,9 +6,9 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Given02&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62) -->
 
-🐤 I'm learning different stacks to become a full-stack developer.<br>
-🧑‍🎓 I'm learning typescript, next.js, python, flask, redis now.<br>
-👣 I like morning exercise and photography<br>
+Hi, I'm learning different stacks to become a full-stack developer.<br>
+I'm learning typescript, next.js, python, flask, redis now.<br>
+I like morning exercise, learning foreign languages and photography.<br>
 
 <div>
 
