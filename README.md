@@ -12,12 +12,6 @@ I enjoy morning exercise, play basketball and taking pictures.<br>
 
 <div>
 
-## Profile
-- Elice School, Programming Languages Tutor (2023.02 ~ )
-- WithSystem, Web Developer (2022.08 ~ 2023.01)
-- Major in Computer Science (2016.03 ~ 2023.08)
-- Major in Media Design (2013.03 ~ 2016.02)
-
 ## Stacks
 <div>
   <div>
