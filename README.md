@@ -4,7 +4,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Given02&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=50&descAlign=80)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Given02&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=50&descAlign=80) -->
 
 #### Hi, I am learning various stacks to be a full-stack developer.<br>
 I'm currently learning Typescript, Next.js, Python, Flask, and Redis.<br>
