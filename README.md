@@ -27,9 +27,9 @@
   <div>
 <!--     <img src="https://img.shields.io/badge/kubernetes-326ce5?style=round-square&logo=kubernetes&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/PM2-2B037A?style=round-square&logo=pm2&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/mariaDB-003545?style=round-square&logo=mariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white">
