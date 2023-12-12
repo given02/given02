@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=round-square&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/typescript-3178C6?style=round-square&logo=typescript&logoColor=white"> -->
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=round-square&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white">
@@ -40,14 +39,15 @@
 <!--     <img src="https://img.shields.io/badge/firebase-FFCA28?style=round-square&logo=firebase&logoColor=white"> -->
   </div>
 <!--   <div>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/jpa hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
     <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/styled components-DB7093?style=round-square&logo=styledcomponents&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-    <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
