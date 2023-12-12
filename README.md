@@ -4,7 +4,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Joonyeong%20Lee👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150&desc=Back-end-Engineer&descAlign=60&descAlignY=70)
 
 <div>
 
@@ -30,8 +30,6 @@
     <img src="https://img.shields.io/badge/jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/PM2-2B037A?style=round-square&logo=pm2&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AMAZON EC2-FF9900?style=round-square&logo=amazonec2&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AMAZON S3-569A31?style=round-square&logo=amazons3&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/mariaDB-003545?style=round-square&logo=mariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white">
@@ -39,6 +37,8 @@
 <!--     <img src="https://img.shields.io/badge/firebase-FFCA28?style=round-square&logo=firebase&logoColor=white"> -->
   </div>
 <!--   <div>
+    <img src="https://img.shields.io/badge/AMAZON EC2-FF9900?style=round-square&logo=amazonec2&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AMAZON S3-569A31?style=round-square&logo=amazons3&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white">
