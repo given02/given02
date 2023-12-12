@@ -19,18 +19,18 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<!--     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
   </div>
   <div>    
   </div>
   <div>
-<!--     <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white"/>
@@ -40,8 +40,8 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> -->
-<!--     <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
   </div>
 <!--   <div>
     <img src="https://img.shields.io/badge/jpa hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
