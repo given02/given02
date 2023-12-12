@@ -16,16 +16,16 @@
     <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=round-square&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=round-square&logo=typescript&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/typescript-3178C6?style=round-square&logo=typescript&logoColor=white"> -->
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=round-square&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white"> -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/css3-1572B6?style=round-square&logo=css3&logoColor=white">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/kubernetes-326ce5?style=round-square&logo=kubernetes&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/kubernetes-326ce5?style=round-square&logo=kubernetes&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/mariaDB-003545?style=round-square&logo=mariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"> -->
 <!--     <img src="https://img.shields.io/badge/firebase-FFCA28?style=round-square&logo=firebase&logoColor=white"> -->
   </div>
 <!--   <div>
