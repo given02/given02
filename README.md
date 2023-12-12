@@ -24,8 +24,6 @@
 <!--     <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white"> -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/css3-1572B6?style=round-square&logo=css3&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"> -->
-<!--     <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white"> -->
   </div>
   <div>
 <!--     <img src="https://img.shields.io/badge/kubernetes-326ce5?style=round-square&logo=kubernetes&logoColor=white"> -->
@@ -42,6 +40,8 @@
 <!--     <img src="https://img.shields.io/badge/firebase-FFCA28?style=round-square&logo=firebase&logoColor=white"> -->
   </div>
 <!--   <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/jpa hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
     <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
