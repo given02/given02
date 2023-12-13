@@ -8,7 +8,7 @@
 
 <div>
 
-## Stacks
+## Main Stacks
 <div>
   <div>
   </div>
@@ -27,7 +27,6 @@
   <div>
 <!--     <img src="https://img.shields.io/badge/kubernetes-326ce5?style=round-square&logo=kubernetes&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PM2-2B037A?style=round-square&logo=pm2&logoColor=white"/>
     <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=round-square&logo=amazonec2&logoColor=white"/>
@@ -38,6 +37,7 @@
 <!--     <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"> -->
   </div>
 <!--   <div>
+    <img src="https://img.shields.io/badge/PM2-2B037A?style=round-square&logo=pm2&logoColor=white"/>
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=round-square&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white">
