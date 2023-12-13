@@ -8,7 +8,7 @@
 
 <div>
 
-## Main Stacks
+## Stacks
 <div>
   <div>
   </div>
