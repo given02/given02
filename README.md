@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=round-square&logo=gitlab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=round-square&logo=confluence&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white"/> -->
   </div>
 <!--   <div>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=round-square&logo=swagger&logoColor=black"/>
