@@ -20,8 +20,8 @@
     <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white"> -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/css3-1572B6?style=round-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=round-square&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/JPA-59666C?style=round-square&logo=hibernate&logoColor=white">
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=round-square&logo=mongoose&logoColor=white">
   </div>
   <div>
 <!--     <img src="https://img.shields.io/badge/kubernetes-326ce5?style=round-square&logo=kubernetes&logoColor=white"> -->
@@ -37,6 +37,8 @@
 <!--     <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"> -->
   </div>
 <!--  <div>
+    <img src="https://img.shields.io/badge/css3-1572B6?style=round-square&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=round-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/styled components-DB7093?style=round-square&logo=styledcomponents&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
@@ -44,9 +46,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/JPA-59666C?style=round-square&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=round-square&logo=sqlalchemy&logoColor=white">
-    <img src="https://img.shields.io/badge/Mongoose-880000?style=round-square&logo=mongoose&logoColor=white">
     <img src="https://img.shields.io/badge/Spring REST Docs-6DB33F?style=round-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=round-square&logo=swagger&logoColor=black"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=postman&logoColor=white"/>
