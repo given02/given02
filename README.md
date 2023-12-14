@@ -12,9 +12,14 @@
 <div>
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=round-square&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"> -->
+<!--     <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white"> -->
+<!--     <img src="https://img.shields.io/badge/Ruby-CC342D?style=round-square&logo=ruby&logoColor=white"> -->
+<!--     <img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=round-square&logo=rubyonrails&logoColor=white"> -->
 <!--     <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=typescript&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white">
@@ -34,13 +39,9 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"> -->
+<!--     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white"> -->
   </div>
 <!--  <div>
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=round-square&logo=ruby&logoColor=white">
-    <img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=round-square&logo=rubyonrails&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Styled Components-DB7093?style=round-square&logo=styledcomponents&logoColor=white">
