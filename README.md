@@ -37,6 +37,7 @@
 <!--     <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"> -->
   </div>
 <!--  <div>
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/css3-1572B6?style=round-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=round-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/styled components-DB7093?style=round-square&logo=styledcomponents&logoColor=white">
@@ -59,7 +60,8 @@
 
 ## My Github
 ![given02's github stats](https://github-readme-stats.vercel.app/api?username=given02&show_icons=true&theme=transparent)
-  ![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=transparent)
+![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=transparent)
+  
   
   <!--(https://github.com/given02)
   [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
