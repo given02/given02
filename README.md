@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150&desc=Back-end%20Engineer&descAlign=60&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150&desc=Full%20Stack%20Enginner&descAlign=60&descAlignY=70)
 
 <div align="right">
   
