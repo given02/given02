@@ -9,8 +9,9 @@
   
 </div>
 
-## Stacks
 <div align="center">
+  
+## Stacks
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white">
@@ -65,8 +66,9 @@
   </div> -->
 </div>
 
-## Github Stats & Solved.ac
 <div align="center">
+  
+## Github Stats & Solved.ac
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=given02)](https://solved.ac/profile/given02)
   ![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&theme=transparent&layout=compact)
