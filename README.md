@@ -64,11 +64,8 @@
   </div> -->
 </div>
 
-## My Github
-![given02's github stats](https://github-readme-stats.vercel.app/api?username=given02&show_icons=true&theme=transparent)
+## Github Stats & Solved.ac
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=given02)](https://solved.ac/profile/given02)
 ![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&theme=transparent&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<!-- ## Solved.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=given02)](https://solved.ac/profile/given02) -->
