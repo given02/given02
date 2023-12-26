@@ -6,6 +6,7 @@
   <a href="https://www.instagram.com/2oooon0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=instagram&logoColor=white"/></a>
   <a href="https://velog.io/@given02"><img src="https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white"/></a>
   <a href="https://given02.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white"/></a>
+  
 </div>
 
 ## Stacks
@@ -69,3 +70,6 @@
 ![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&theme=transparent&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
