@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150&desc=Back-end%20Enginner&descAlign=60&descAlignY=70)
-
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiven02&count_bg=%23232323&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+  
 <div align="right">
   
-<!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiven02&count_bg=%23232323&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-  <a href="https://www.instagram.com/2oooon0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://velog.io/@given02"><img src="https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white"/></a>
-  <a href="https://given02.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white"/></a>
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=instagram&logoColor=white)](https://www.instagram.com/2oooon0)
+  [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@given02)
+  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white)](https://given02.tistory.com/)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=given02)](https://solved.ac/given02)
   
 </div>
 
@@ -65,14 +66,11 @@
   </div> -->
 </div>
 
-## Github Stats & Solved.ac
-<div>
-  
+## Github Stats
+  ![given02's GitHub stats](https://github-readme-stats.vercel.app/api?username=given02&hide=stars&count_private=true&theme=transparent)
   ![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&theme=transparent&layout=compact)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=given02)](https://solved.ac/profile/given02)
   [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+
 
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) -->
