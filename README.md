@@ -2,7 +2,6 @@
   
 <div align="right">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=instagram&logoColor=white)](https://www.instagram.com/2oooon0)
   [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@given02)
   [![Tistory](https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white)](https://given02.tistory.com/)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiven02&count_bg=%23232323&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
