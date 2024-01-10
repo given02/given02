@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=round-square&logo=springboot&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white"> -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black">
@@ -45,7 +46,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=round-square&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=round-square&logo=rubyonrails&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=css3&logoColor=white">
