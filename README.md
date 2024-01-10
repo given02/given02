@@ -12,16 +12,17 @@
 ## Stacks
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=javascript&logoColor=black">
 <!--   <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=typescript&logoColor=white"> -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=round-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white"> -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jquery&logoColor=black">
 </div>
 <div>
 </div>
@@ -48,7 +49,6 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jquery&logoColor=black">
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=round-square&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
