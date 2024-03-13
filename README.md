@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150&desc=Back-end%20Enginner&descAlign=60&descAlignY=70)
   
 <div align="right">
@@ -10,7 +12,6 @@
 </div>
 
 ## Stacks
-<div align="center">
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white">
@@ -43,7 +44,7 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
 </div>
-</div>
+
 <!--   </div>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=round-square&logo=ruby&logoColor=white">
@@ -71,8 +72,14 @@
 </div> -->
 
 ## Github Stats
-![given02's GitHub stats](https://github-readme-stats.vercel.app/api?username=given02&hide=stars&count_private=true&theme=transparent)
-![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&theme=transparent&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+  
+  ![given02's GitHub stats](https://github-readme-stats.vercel.app/api?username=given02&hide=stars&count_private=true&theme=transparent)
+  ![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&theme=transparent&layout=compact)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) -->
+
+</div>
