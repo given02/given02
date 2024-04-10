@@ -73,43 +73,35 @@
 
 ## Project
 <div>
-
   <a href="https://github.com/given02/White-Rabbit" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=transparent&repo=White-Rabbit" width="33%" alt="White-Rabbit"/>
   </a>
   <a href="https://github.com/given02/Gazago" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=transparent&repo=Gazago" width="33%" alt="Gazago"/>
   </a>
-  
 </div>
 <div>
-  
   <a href="https://github.com/given02/Comma-Back-end" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=transparent&repo=Comma-Back-end" width="33%" alt="Comma-Back-end"/>
   </a>
-
 </div>
 
 ## Study
 <div>
-
   <a href="https://github.com/given02/Study-Spring-docs" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=transparent&repo=Study-Spring-docs" width="33%" alt="Study-Spring-docs"/>
   </a>
   <a href="https://github.com/given02/Study-Spring-Hello-spring" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=transparent&repo=Study-Spring-Hello-spring" width="33%" alt="Study-Spring-Hello-spring"/>
   </a>
-  
 </div>
 <div>
-
   <a href="https://github.com/given02/Study-Java-Jungsuk-Basic" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=transparent&repo=Study-Java-Jungsuk-Basic" width="33%" alt="Study-Java-Jungsuk-Basic"/>
   </a>
   <a href="https://github.com/given02/Algorithm" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=transparent&repo=Algorithm" width="33%" alt="Algorithm"/>
   </a>
-
 </div>
 
 ## Github Stats
