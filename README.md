@@ -91,8 +91,8 @@
   <a href="https://github.com/given02/Study-Spring-docs" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Study-Spring-docs" width="33%" alt="Study-Spring-docs"/>
   </a>
-  <a href="https://github.com/given02/Study-Spring-Hello-spring" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Study-Spring-Hello-spring" width="33%" alt="Study-Spring-Hello-spring"/>
+  <a href="https://github.com/given02/Study-Hello-Spring" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Study-Hello-Spring" width="33%" alt="Study-Hello-Spring"/>
   </a>
 </div>
 <div>
