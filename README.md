@@ -71,15 +71,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white"/>
 </div> -->
 
-## Github Stats
-<div>
-  
-  ![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&theme=transparent&layout=compact)
-  ![given02's GitHub stats](https://github-readme-stats.vercel.app/api?username=given02&hide=stars&count_private=true&theme=transparent)
-  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
-  
-</div>
-
 ## Project
 <div>
 
@@ -111,6 +102,15 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=transparent&repo=Algorithm" width="49%" alt="Algorithm"/>
   </a>
 
+</div>
+
+## Github Stats
+<div>
+  
+  ![given02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=given02&show_icons=true&theme=transparent&layout=compact)
+  ![given02's GitHub stats](https://github-readme-stats.vercel.app/api?username=given02&hide=stars&count_private=true&theme=transparent)
+  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
+  
 </div>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) -->
