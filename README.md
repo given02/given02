@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEEEEE,100:1A1A3A&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=30&height=150&desc=Back-end%20Enginner&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEEEEE,100:99ccff&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=30&height=150&desc=Back-end%20Enginner&descAlign=60&descAlignY=50)
   
 <div align="right">
 
@@ -118,6 +118,6 @@
   
 </div> -->
  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEEEEE,100:1A1A3A&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEEEEE,100:99ccff&height=100&section=footer)
 
 </div>
