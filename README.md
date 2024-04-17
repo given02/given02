@@ -35,6 +35,7 @@
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"> -->
 </div>
@@ -43,14 +44,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=round-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=round-square&logo=amazons3&logoColor=white"/>
 </div>
 
 <!--   </div>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=round-square&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=round-square&logo=rubyonrails&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=round-square&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=round-square&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=css3&logoColor=white">
@@ -62,7 +63,6 @@
   <img src="https://img.shields.io/badge/JPA-59666C?style=round-square&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Mongoose-880000?style=round-square&logo=mongoose&logoColor=white">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=round-square&logo=sqlalchemy&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring REST Docs-6DB33F?style=round-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=round-square&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/PM2-2B037A?style=round-square&logo=pm2&logoColor=white"/>
