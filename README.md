@@ -42,8 +42,8 @@
 <div>
 <!--   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=round-square&logo=kubernetes&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=round-square&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=round-square&logo=amazons3&logoColor=white"/>
 </div>
