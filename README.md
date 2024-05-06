@@ -99,11 +99,6 @@
   <a href="https://github.com/given02/Study-Java-Jungsuk-Basic" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Study-Java-Jungsuk-Basic" width="33%" alt="Study-Java-Jungsuk-Basic"/>
   </a>
-  <a href="https://github.com/given02/Study-Algorithm-Java" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Study-Algorithm-Java" width="33%" alt="Study-Algorithm-Java"/>
-  </a>
-</div>
-<div>
   <a href="https://github.com/given02/Algorithm" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Algorithm" width="33%" alt="Algorithm"/>
   </a>
