@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=round-square&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white"/>
 </div> -->
-
+<!--
 ## Project
 <div>
   <a href="https://github.com/given02/White-Rabbit" target="_blank">
@@ -103,7 +103,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Algorithm" width="45%" alt="Algorithm"/>
   </a>
 </div>
-
+-->
 <!-- ## Github Stats
 <div>
   
