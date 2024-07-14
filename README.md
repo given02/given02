@@ -23,12 +23,13 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=round-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring security-6DB33F?style=round-square&logo=springsecurity&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=django&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Flask-000000?style=round-square&logo=flask&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jquery&logoColor=black">
 </div>
