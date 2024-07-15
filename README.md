@@ -114,6 +114,6 @@
   
 </div> -->
  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEEEEE,100:99ccff&height=100&section=footer)
+<!--![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEEEEE,100:99ccff&height=100&section=footer)-->
 
 </div>
