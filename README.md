@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring&Cloud-6DB33F?style=round-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=round-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring security-6DB33F?style=round-square&logo=springsecurity&logoColor=white">
 </div>
