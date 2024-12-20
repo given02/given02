@@ -47,6 +47,12 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/PM2-2B037A?style=round-square&logo=pm2&logoColor=white"/>
 </div>
+<!-- <div>
+  <img src="https://img.shields.io/badge/Intellij-000000?style=round-square&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=round-square&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=round-square&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=xcode&logoColor=white"/>
+</div> -->
 
 <!--   </div>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=round-square&logo=googlecloud&logoColor=white">
