@@ -96,24 +96,6 @@
   </a>
 </div>
 
-## Study
-<div>
-  <a href="https://github.com/given02/Study-Spring-docs" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Study-Spring-docs" width="45%" alt="Study-Spring-docs"/>
-  </a>
-  <a href="https://github.com/given02/Study-Hello-Spring" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Study-Hello-Spring" width="45%" alt="Study-Hello-Spring"/>
-  </a>
-</div>
-<div>
-  <a href="https://github.com/given02/Study-Java-Jungsuk-Basic" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Study-Java-Jungsuk-Basic" width="45%" alt="Study-Java-Jungsuk-Basic"/>
-  </a>
-  <a href="https://github.com/given02/Algorithm" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=given02&theme=github_dark&repo=Algorithm" width="45%" alt="Algorithm"/>
-  </a>
-</div>
--->
 <!-- ## Github Stats
 <div>
   
