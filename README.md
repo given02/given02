@@ -39,13 +39,13 @@
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=round-square&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=round-square&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=round-square&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=round-square&logo=rabbitmq&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=round-square&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=round-square&logo=pm2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=jenkins&logoColor=white"/>
 </div>
 <!-- <div>
   <img src="https://img.shields.io/badge/Intellij-000000?style=round-square&logo=intellijidea&logoColor=white">
@@ -55,6 +55,7 @@
 </div> -->
 
 <!--   </div>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=round-square&logo=pm2&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=round-square&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jquery&logoColor=black">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariaDB&logoColor=white">
