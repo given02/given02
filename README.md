@@ -15,7 +15,7 @@
 <!--   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=javascript&logoColor=black">
-<!--   <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=typescript&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
 </div>
 <div>
@@ -26,7 +26,7 @@
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black">
 </div>
 <div>
