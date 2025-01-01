@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/> -->
 </div>
 <div>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=springboot&logoColor=white">
