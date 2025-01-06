@@ -10,7 +10,7 @@
   
 </div>
 
-## Stacks
+## Tech Skills
 <div>
 <!--   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/>
