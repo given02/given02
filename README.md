@@ -14,7 +14,7 @@
 
 ### Primary
 <div> 
-<!--   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=OpenJDK&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=spring&logoColor=white"> 
 </div>
@@ -51,12 +51,12 @@
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=round-square&logo=amazonrds&logoColor=white"> 
 </div>
 <!-- <div> 
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=round-square&logo=prometheus&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=round-square&logo=grafana&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kafka-231F20?style=round-square&logo=apachekafka&logoColor=white"> 
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=round-square&logo=rabbitmq&logoColor=white"/> 
-</div> -->
-<!-- <div>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=round-square&logo=prometheus&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=round-square&logo=grafana&logoColor=white"> 
+</div>
+<div>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white"> 
   <img src="https://img.shields.io/badge/Logstash-005571?style=round-square&logo=logstash&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Kibana-005571?style=round-square&logo=kibana&logoColor=white"/> 
