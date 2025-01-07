@@ -10,7 +10,7 @@
   
 </div>
 
-## Tech Skills
+# Tech Skills
 
 ### Primary
 <div> 
