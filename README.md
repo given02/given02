@@ -50,8 +50,8 @@
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=round-square&logo=amazons3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=round-square&logo=amazonrds&logoColor=white"> 
 </div>
-<!-- <div> 
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=round-square&logo=apachekafka&logoColor=white"> 
+<div> 
+<!--   <img src="https://img.shields.io/badge/Kafka-231F20?style=round-square&logo=apachekafka&logoColor=white">  -->
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=round-square&logo=rabbitmq&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=round-square&logo=prometheus&logoColor=white"> 
   <img src="https://img.shields.io/badge/Grafana-F46800?style=round-square&logo=grafana&logoColor=white"> 
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white"> 
   <img src="https://img.shields.io/badge/Logstash-005571?style=round-square&logo=logstash&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Kibana-005571?style=round-square&logo=kibana&logoColor=white"/> 
-</div> -->
+</div>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEEEEE,100:99ccff&height=100&section=footer)-->
 
