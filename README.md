@@ -66,7 +66,7 @@
 
 ---
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=given02)](https://solved.ac/given02)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=given02)](https://solved.ac/profile/given02)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) -->
 
