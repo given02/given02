@@ -66,7 +66,7 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=given02)](https://solved.ac/profile/given02)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=given02)](https://solved.ac/profile/given02)-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiven02&count_bg=%22222222&title_bg=%22222222&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/badge/-000000?style=round-square&logo=apple&logoColor=white">
