@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,next,react,figma" alt="secondary"/><br>
   
   ---
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiven02&count_bg=%22222222&title_bg=%22222222&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
   <img src="https://img.shields.io/badge/-000000?style=round-square&logo=apple&logoColor=white">
   
   <!--[![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)-->
