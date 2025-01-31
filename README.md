@@ -44,8 +44,6 @@
 <div> 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=typescript&logoColor=white"> 
-</div> 
-<div> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white"> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white"> 
