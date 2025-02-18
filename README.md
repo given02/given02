@@ -60,6 +60,7 @@
 
 ---
 
+<a href="https://solved.ac/given02"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=given02" alt="Solved.ac프로필"></a>
 <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white">
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEEEEE,100:99ccff&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=30&height=150&desc=Back-end%20Engineer&descAlign=60&descAlignY=50)-->
