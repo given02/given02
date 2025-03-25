@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tech Skills
+# Tech Stack
 
 ### 🥇Primary
 <div> 
