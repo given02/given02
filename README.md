@@ -61,6 +61,9 @@
 <a href="https://solved.ac/given02"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=given02" alt="Solved.ac프로필"></a>
 <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white">
 
+[Portfolio](https://github.com/given02/given02/blob/main/Portfolio_Blind_v1.1.pdf)
+
+
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEEEEE,100:99ccff&text=Lee%20Joon%20Yeong👋&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=30&height=150&desc=Back-end%20Engineer&descAlign=60&descAlignY=50)-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=given02&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=given02)](https://solved.ac/profile/given02)-->
